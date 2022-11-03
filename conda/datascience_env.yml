@@ -1,4 +1,4 @@
-name: cps3235
+name: data_science
 channels:
   - conda-forge
   - defaults
