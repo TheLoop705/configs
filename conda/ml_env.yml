@@ -1,0 +1,16 @@
+# Use `conda env create environment.yml` to create a dev environment
+name: ml_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - keras
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - scipy
+  - seaborn
+  - tensorflow
+  - pandas
+  - pip
+prefix: C:\Anaconda3\envs\ml_env
