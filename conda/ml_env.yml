@@ -4,13 +4,11 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - keras
-  - matplotlib
   - numpy
-  - scikit-learn
-  - scipy
-  - seaborn
-  - tensorflow
   - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scikit-learn-intelex 
   - pip
 prefix: C:\Anaconda3\envs\ml_env

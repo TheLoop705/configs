@@ -6,11 +6,8 @@ dependencies:
   - numpy 
   - pandas 
   - matplotlib 
-  - scipy 
+  - seaborn 
   - scikit-learn
   - scikit-learn-intelex 
-  - seaborn 
-  - nltk 
-  - nltk_data 
-  - beautifulsoup4
-prefix: C:\Anaconda3\envs\ds_env
+  - pip
+
