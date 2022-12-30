@@ -9,6 +9,6 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
-  - scikit-learn-intelex 
+  - scikit-learn-intelex
   - pip
-prefix: C:\Anaconda3\envs\ml_env
+  - jupyter
