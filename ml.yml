@@ -14,6 +14,8 @@ dependencies:
   - requests
   - sqlite
   - scikit-learn
+  - scipy
   - pytorch
   - pip:
       - python-dotenv
+      - cookiecutter
